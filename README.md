@@ -5,8 +5,8 @@ CMS & AI-Driven Full Stack Developer | Shopify · Webflow · Framer · Automatio
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uniskillity&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat-square" alt="open to work" />
-  <img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=flat-square" alt="freelance available" />
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=flat-square&logo=workable&logoColor=white" alt="open to work" />
+  <img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=flat-square&logo=Upwork" alt="freelance available" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ CMS & AI-Driven Full Stack Developer | Shopify · Webflow · Framer · Automatio
 
 ---
 
-## Hi there
+## Hi there 👋
 
 This repository represents my professional profile.
 
@@ -39,11 +39,11 @@ I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 - Webflow & Framer Specialist for high-performing marketing sites
 - Building agentic AI workflows and automation pipelines
 
->I build fast, scalable products by combining CMS, automation, and AI-driven execution.
+> "I build fast, scalable products by combining CMS, automation, and AI-driven execution."
 
 ---
 
-## Currently Learning & Compounding
+## Currently Learning & Compounding 📚
 
 - Framer (advanced interactions, scalable layouts)
 - n8n (custom workflows, self-hosted automation)
@@ -59,7 +59,7 @@ I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 
 ---
 
-## Core Tech Stack
+## Core Tech Stack 🛠
 
 ### CMS, Frontend & Web Platforms
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
@@ -72,17 +72,17 @@ I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Mobile Development
+### Mobile Development 📱
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Backend & APIs
+### Backend & APIs 🖥
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### AI, Automation & Data
+### AI, Automation & Data 🤖
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -90,12 +90,12 @@ I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-### Databases
+### Databases 🗄
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### DevOps, Analytics & Tools
+### DevOps, Analytics & Tools ⚙️
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -104,14 +104,14 @@ I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 
 ---
 
-## Availability
+## Availability ⏰
 
-- Remote
+- Remote  
 - Timezones: PKT · USA · Canada · Australia
 
 ---
 
-## Connect
+## Connect 🔗
 
 <p align="center">
   <a href="https://www.linkedin.com/in/spaqootech/" target="_blank">
