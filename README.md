@@ -28,17 +28,8 @@ I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 
 ## Currently Learning & Compounding 📚
 
-- Framer (advanced interactions, scalable layouts)
-- n8n (custom workflows, self-hosted automation)
-- Zapier (multi-app orchestration)
-- Shopify Theme Development (performance-first, CRO)
-- Full Stack Development (production-grade systems)
-- Vibe Projects (rapid MVPs, experimental builds)
-- Agentic AI (tool-using agents, orchestration)
-- Mathematics for AI (probability, linear algebra foundations)
-- Communication (technical clarity, client-facing execution)
-- Research (AI systems, product strategy)
-- LeetCode (data structures, algorithms, problem-solving)
+Framer, n8n, Zapier, Shopify Theme Development, Full Stack Development, Vibe Projects, Agentic AI, Mathematics for AI, Communication, Research, LeetCode
+
 
 ---
 
@@ -92,19 +83,6 @@ I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 - Remote  
 - Timezones: PKT · USA · Canada · Australia
 
----
----
-
-This repository represents my professional profile.
-
-- Building CMS-driven, automation-first products
-- Working across Shopify Plus, Webflow, and Framer
-- Shipping AI-assisted MVPs and internal tools
-- Open to collaboration on SaaS, eCommerce, and automation systems
-- Focus: CRO, performance, scalability, execution speed
-- Contact: mohdalimeer06@gmail.com
-
----
 
 
 ## Connect 🔗
