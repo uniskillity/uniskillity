@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Muhammad Ali</h1>
 <h3 align="center">
-CMS & AI-Driven Full Stack Developer | Shopify · Webflow · Framer · Automation · MVPs
+Full Stack Developer | Shopify · Webflow · Framer · Automation · MVPs
 </h3>
 
 <p align="center">
@@ -13,23 +13,6 @@ CMS & AI-Driven Full Stack Developer | Shopify · Webflow · Framer · Automatio
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=uniskillity&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniskillity&layout=compact&theme=radical" />
 </p>
-
----
-
-## Hi there 👋
-
-This repository represents my professional profile.
-
-- Building CMS-driven, automation-first products
-- Working across Shopify Plus, Webflow, and Framer
-- Shipping AI-assisted MVPs and internal tools
-- Open to collaboration on SaaS, eCommerce, and automation systems
-- Focus: CRO, performance, scalability, execution speed
-- Contact: mohdalimeer06@gmail.com
-
----
-
-## About Me
 
 I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building  
 **scalable, conversion-optimized MVPs and automation-first systems**.
@@ -110,6 +93,19 @@ I am a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 - Timezones: PKT · USA · Canada · Australia
 
 ---
+---
+
+This repository represents my professional profile.
+
+- Building CMS-driven, automation-first products
+- Working across Shopify Plus, Webflow, and Framer
+- Shipping AI-assisted MVPs and internal tools
+- Open to collaboration on SaaS, eCommerce, and automation systems
+- Focus: CRO, performance, scalability, execution speed
+- Contact: mohdalimeer06@gmail.com
+
+---
+
 
 ## Connect 🔗
 
